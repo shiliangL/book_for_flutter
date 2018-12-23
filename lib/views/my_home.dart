@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:book_for_flutter/widget/my_drawer.dart';
-import 'package:book_for_flutter/navBarView/nav_index.dart';
-import 'package:book_for_flutter/navBarView/nav_list.dart';
-import 'package:book_for_flutter/navBarView/nav_other.dart';
-import 'package:book_for_flutter/navBarView/nav_component.dart';
+import 'package:book_for_flutter/views/my_drawer.dart';
+import 'package:book_for_flutter/views/tabBarView/nav_index.dart';
+import 'package:book_for_flutter/views/tabBarView/nav_list.dart';
+import 'package:book_for_flutter/views/tabBarView/nav_other.dart';
+import 'package:book_for_flutter/views/tabBarView/nav_component.dart';
 
 
 class MyHome extends StatefulWidget {

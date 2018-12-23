@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:book_for_flutter/widget/my_home.dart';
-import 'package:book_for_flutter/widget/routesPage/layout.dart';
+import 'package:book_for_flutter/views/my_home.dart';
+import 'package:book_for_flutter/views/sideViews/layout.dart';
 import 'package:book_for_flutter/app_config.dart';
 
 void main() => runApp(Myapp());
